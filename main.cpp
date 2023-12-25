@@ -1,16 +1,3 @@
-/* ---------------------------------------------
-    Program 5: Unscrambler
-        Program for an Unscrambler game where
-        random words are selected from a file
-        then put into a game board and scrambled.
-        The user has to solve the board so that the
-        words are correct.
-
-    Course: CS 141, Fall 2021. Tues 9am lab
-    System: Windows using CLion
-    Author: Aleksandr Elifirenko
-*/
-
 #include <sstream>
 #include <algorithm>
 #include <iostream>
